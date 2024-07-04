@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\TakeIEnumerable\bin\Debug\net8.0\TakeIEnumerable.exe
+C:\Users\48571\source\repos\TakeIEnumerable\bin\Debug\net8.0\TakeIEnumerable.deps.json
+C:\Users\48571\source\repos\TakeIEnumerable\bin\Debug\net8.0\TakeIEnumerable.runtimeconfig.json
+C:\Users\48571\source\repos\TakeIEnumerable\bin\Debug\net8.0\TakeIEnumerable.dll
+C:\Users\48571\source\repos\TakeIEnumerable\bin\Debug\net8.0\TakeIEnumerable.pdb
+C:\Users\48571\source\repos\TakeIEnumerable\obj\Debug\net8.0\TakeIEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\TakeIEnumerable\obj\Debug\net8.0\TakeIEnumerable.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\TakeIEnumerable\obj\Debug\net8.0\TakeIEnumerable.AssemblyInfo.cs
+C:\Users\48571\source\repos\TakeIEnumerable\obj\Debug\net8.0\TakeIEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\TakeIEnumerable\obj\Debug\net8.0\TakeIEnumerable.dll
+C:\Users\48571\source\repos\TakeIEnumerable\obj\Debug\net8.0\refint\TakeIEnumerable.dll
+C:\Users\48571\source\repos\TakeIEnumerable\obj\Debug\net8.0\TakeIEnumerable.pdb
+C:\Users\48571\source\repos\TakeIEnumerable\obj\Debug\net8.0\TakeIEnumerable.genruntimeconfig.cache
+C:\Users\48571\source\repos\TakeIEnumerable\obj\Debug\net8.0\ref\TakeIEnumerable.dll
